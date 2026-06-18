@@ -1,0 +1,12 @@
+EXECUTION TIME COMPARISON TABLE
+Program: burro.cpp (MPI Non-blocking Implementation)
+Date: June 2, 2026
+
+Process Count (NP) | Winner Rank | Execution Time (Seconds)
+-------------------|-------------|---------------
+8 Processes        | Rank 0      | 0.323931 s
+16 Processes       | Rank 7      | 0.740987 s
+32 Processes       | Rank 6      | 2.271239 s
+
+-------------------------------------------------
+- Tests were performed on the SCAYLE (Calendula) cluster.

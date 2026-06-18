@@ -1,0 +1,8 @@
+Rank 0 Initial Hand: [5, 5, 2, 3]
+Rank 1 Initial Hand: [5, 7, 7, 0]
+Rank 2 Initial Hand: [2, 6, 0, 6]
+Rank 3 Initial Hand: [7, 1, 4, 7]
+Rank 4 Initial Hand: [1, 5, 3, 1]
+Rank 5 Initial Hand: [1, 4, 6, 4]
+Rank 6 Initial Hand: [0, 3, 6, 3]
+Rank 7 Initial Hand: [2, 2, 4, 0]

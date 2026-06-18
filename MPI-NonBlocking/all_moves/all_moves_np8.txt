@@ -1,0 +1,62 @@
+Rank 0 Initial Hand: [5, 5, 2, 3]
+Rank 0: Sent 2 to Rank 1, Received 4 from Rank 7
+Rank 0: Sent 4 to Rank 1, Received 2 from Rank 7
+Rank 0: Sent 2 to Rank 1, Received 1 from Rank 7
+Rank 0: Sent 1 to Rank 1, Received 5 from Rank 7
+Rank 0: Sent 3 to Rank 1, Received 6 from Rank 7
+Rank 0: Sent 6 to Rank 1, Received 2 from Rank 7
+Rank 0: Sent 2 to Rank 1, Received 5 from Rank 7
+
+Rank 1 Initial Hand: [5, 7, 7, 0]
+Rank 1: Sent 5 to Rank 2, Received 2 from Rank 0
+Rank 1: Sent 2 to Rank 2, Received 4 from Rank 0
+Rank 1: Sent 4 to Rank 2, Received 2 from Rank 0
+Rank 1: Sent 2 to Rank 2, Received 1 from Rank 0
+Rank 1: Sent 1 to Rank 2, Received 3 from Rank 0
+Rank 1: Sent 3 to Rank 2, Received 6 from Rank 0
+Rank 1: Sent 6 to Rank 2, Received 2 from Rank 0
+
+Rank 2 Initial Hand: [2, 6, 0, 6]
+Rank 2: Sent 2 to Rank 3, Received 5 from Rank 1
+Rank 2: Sent 5 to Rank 3, Received 2 from Rank 1
+Rank 2: Sent 2 to Rank 3, Received 4 from Rank 1
+Rank 2: Sent 4 to Rank 3, Received 2 from Rank 1
+
+Rank 3 Initial Hand: [7, 1, 4, 7]
+Rank 3: Sent 1 to Rank 4, Received 2 from Rank 2
+Rank 3: Sent 2 to Rank 4, Received 5 from Rank 2
+Rank 3: Sent 5 to Rank 4, Received 2 from Rank 2
+Rank 3: Sent 2 to Rank 4, Received 4 from Rank 2
+Rank 3: Sent 7 to Rank 4, Received 2 from Rank 2
+
+Rank 4 Initial Hand: [1, 5, 3, 1]
+Rank 4: Sent 5 to Rank 5, Received 1 from Rank 3
+Rank 4: Sent 3 to Rank 5, Received 2 from Rank 3
+Rank 4: Sent 2 to Rank 5, Received 5 from Rank 3
+Rank 4: Sent 5 to Rank 5, Received 2 from Rank 3
+Rank 4: Sent 2 to Rank 5, Received 7 from Rank 3
+Rank 4: Sent 7 to Rank 5, Received 2 from Rank 3
+
+Rank 5 Initial Hand: [1, 4, 6, 4]
+Rank 5: Sent 1 to Rank 6, Received 5 from Rank 4
+Rank 5: Sent 5 to Rank 6, Received 3 from Rank 4
+Rank 5: Sent 3 to Rank 6, Received 2 from Rank 4
+Rank 5: Sent 2 to Rank 6, Received 5 from Rank 4
+Rank 5: Sent 5 to Rank 6, Received 2 from Rank 4
+
+Rank 6 Initial Hand: [0, 3, 6, 3]
+Rank 6: Sent 0 to Rank 7, Received 1 from Rank 5
+Rank 6: Sent 1 to Rank 7, Received 5 from Rank 5
+Rank 6: Sent 5 to Rank 7, Received 3 from Rank 5
+Rank 6: Sent 6 to Rank 7, Received 2 from Rank 5
+Rank 6: Sent 2 to Rank 7, Received 5 from Rank 5
+Rank 6: Sent 5 to Rank 7, Received 2 from Rank 5
+
+Rank 7 Initial Hand: [2, 2, 4, 0]
+Rank 7: Sent 4 to Rank 0, Received 0 from Rank 6
+Rank 7: Sent 2 to Rank 0, Received 1 from Rank 6
+Rank 7: Sent 1 to Rank 0, Received 5 from Rank 6
+Rank 7: Sent 5 to Rank 0, Received 6 from Rank 6
+Rank 7: Sent 6 to Rank 0, Received 2 from Rank 6
+Rank 7: Sent 2 to Rank 0, Received 5 from Rank 6
+Rank 7: Sent 5 to Rank 0, Received 2 from Rank 6
