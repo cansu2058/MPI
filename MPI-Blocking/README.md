@@ -1,0 +1,1 @@
+The execution was conducted on the Caléndula Supercomputer. The results demonstrate a clear reduction in execution time as the number of processes increases, showcasing the efficiency of the parallel implementation for large 10000x10000 matrices.
