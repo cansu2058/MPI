@@ -1,0 +1,198 @@
+=== RUNNING WITH 5 PROCESSES ===
+Master: N=10000, i=9546, j=9850, k=7420, t=9172
+Master: local sum = 10230.000000
+Master: received sum from rank 1 = 10230.000000
+Master: received sum from rank 2 = 10230.000000
+Master: received sum from rank 3 = 10230.000000
+Master: received sum from rank 4 = 10230.000000
+Elapsed time (steps 3-7): 0.000679 seconds
+
+Master: N=10000, i=2588, j=4838, k=4029, t=4393
+Master: local sum = 12717.000000
+Master: received sum from rank 1 = 12717.000000
+Master: received sum from rank 2 = 12717.000000
+Master: received sum from rank 3 = 12717.000000
+Master: received sum from rank 4 = 12717.000000
+Elapsed time (steps 3-7): 0.000751 seconds
+
+Master: N=10000, i=1361, j=4933, k=8094, t=9827
+Master: local sum = 26255.000000
+Master: received sum from rank 1 = 26255.000000
+Master: received sum from rank 2 = 26255.000000
+Master: received sum from rank 3 = 26255.000000
+Master: received sum from rank 4 = 26255.000000
+Elapsed time (steps 3-7): 0.000879 seconds
+
+Master: N=10000, i=4302, j=5598, k=7465, t=8378
+Master: local sum = 10992.000000
+Master: received sum from rank 1 = 10992.000000
+Master: received sum from rank 2 = 10992.000000
+Master: received sum from rank 3 = 10992.000000
+Master: received sum from rank 4 = 10992.000000
+Elapsed time (steps 3-7): 0.000991 seconds
+
+Master: N=10000, i=4022, j=5246, k=1127, t=2012
+Master: local sum = 10691.000000
+Master: received sum from rank 1 = 10691.000000
+Master: received sum from rank 2 = 10691.000000
+Master: received sum from rank 3 = 10691.000000
+Master: received sum from rank 4 = 10691.000000
+Elapsed time (steps 3-7): 0.000996 seconds
+
+=== RUNNING WITH 10 PROCESSES ===
+Master: N=10000, i=424, j=2973, k=6486, t=8162
+Master: local sum = 21026.000000
+Master: received sum from rank 1 = 21026.000000
+Master: received sum from rank 2 = 21026.000000
+Master: received sum from rank 3 = 21026.000000
+Master: received sum from rank 4 = 21026.000000
+Master: received sum from rank 5 = 21026.000000
+Master: received sum from rank 6 = 21026.000000
+Master: received sum from rank 7 = 21026.000000
+Master: received sum from rank 8 = 21026.000000
+Master: received sum from rank 9 = 21026.000000
+Elapsed time (steps 3-7): 0.001477 seconds
+
+Master: N=10000, i=7224, j=7518, k=3970, t=7102
+Master: local sum = 17001.000000
+Master: received sum from rank 1 = 17001.000000
+Master: received sum from rank 2 = 17001.000000
+Master: received sum from rank 3 = 17001.000000
+Master: received sum from rank 4 = 17001.000000
+Master: received sum from rank 5 = 17001.000000
+Master: received sum from rank 6 = 17001.000000
+Master: received sum from rank 7 = 17001.000000
+Master: received sum from rank 8 = 17001.000000
+Master: received sum from rank 9 = 17001.000000
+Elapsed time (steps 3-7): 0.001353 seconds
+
+Master: N=10000, i=8278, j=9363, k=6702, t=6835
+Master: local sum = 6199.000000
+Master: received sum from rank 1 = 6199.000000
+Master: received sum from rank 2 = 6199.000000
+Master: received sum from rank 3 = 6199.000000
+Master: received sum from rank 4 = 6199.000000
+Master: received sum from rank 5 = 6199.000000
+Master: received sum from rank 6 = 6199.000000
+Master: received sum from rank 7 = 6199.000000
+Master: received sum from rank 8 = 6199.000000
+Master: received sum from rank 9 = 6199.000000
+Elapsed time (steps 3-7): 0.001316 seconds
+
+Master: N=10000, i=358, j=9105, k=3225, t=8793
+Master: local sum = 71832.000000
+Master: received sum from rank 1 = 71832.000000
+Master: received sum from rank 2 = 71832.000000
+Master: received sum from rank 3 = 71832.000000
+Master: received sum from rank 4 = 71832.000000
+Master: received sum from rank 5 = 71832.000000
+Master: received sum from rank 6 = 71832.000000
+Master: received sum from rank 7 = 71832.000000
+Master: received sum from rank 8 = 71832.000000
+Master: received sum from rank 9 = 71832.000000
+Elapsed time (steps 3-7): 0.002212 seconds
+
+Master: N=10000, i=6595, j=9166, k=1414, t=8412
+Master: local sum = 48047.000000
+Master: received sum from rank 1 = 48047.000000
+Master: received sum from rank 2 = 48047.000000
+Master: received sum from rank 3 = 48047.000000
+Master: received sum from rank 4 = 48047.000000
+Master: received sum from rank 5 = 48047.000000
+Master: received sum from rank 6 = 48047.000000
+Master: received sum from rank 7 = 48047.000000
+Master: received sum from rank 8 = 48047.000000
+Master: received sum from rank 9 = 48047.000000
+Elapsed time (steps 3-7): 0.001523 seconds
+
+=== RUNNING WITH 15 PROCESSES ===
+Master: N=10000, i=5003, j=5127, k=497, t=1142
+Master: local sum = 3755.000000
+Master: received sum from rank 1 = 3755.000000
+Master: received sum from rank 2 = 3755.000000
+Master: received sum from rank 3 = 3755.000000
+Master: received sum from rank 4 = 3755.000000
+Master: received sum from rank 5 = 3755.000000
+Master: received sum from rank 6 = 3755.000000
+Master: received sum from rank 7 = 3755.000000
+Master: received sum from rank 8 = 3755.000000
+Master: received sum from rank 9 = 3755.000000
+Master: received sum from rank 10 = 3755.000000
+Master: received sum from rank 11 = 3755.000000
+Master: received sum from rank 12 = 3755.000000
+Master: received sum from rank 13 = 3755.000000
+Master: received sum from rank 14 = 3755.000000
+Elapsed time (steps 3-7): 0.003921 seconds
+
+Master: N=10000, i=1093, j=3491, k=8674, t=9259
+Master: local sum = 14907.000000
+Master: received sum from rank 1 = 14907.000000
+Master: received sum from rank 2 = 14907.000000
+Master: received sum from rank 3 = 14907.000000
+Master: received sum from rank 4 = 14907.000000
+Master: received sum from rank 5 = 14907.000000
+Master: received sum from rank 6 = 14907.000000
+Master: received sum from rank 7 = 14907.000000
+Master: received sum from rank 8 = 14907.000000
+Master: received sum from rank 9 = 14907.000000
+Master: received sum from rank 10 = 14907.000000
+Master: received sum from rank 11 = 14907.000000
+Master: received sum from rank 12 = 14907.000000
+Master: received sum from rank 13 = 14907.000000
+Master: received sum from rank 14 = 14907.000000
+Elapsed time (steps 3-7): 0.004142 seconds
+
+Master: N=10000, i=3687, j=4779, k=3903, t=9522
+Master: local sum = 33617.000000
+Master: received sum from rank 1 = 33617.000000
+Master: received sum from rank 2 = 33617.000000
+Master: received sum from rank 3 = 33617.000000
+Master: received sum from rank 4 = 33617.000000
+Master: received sum from rank 5 = 33617.000000
+Master: received sum from rank 6 = 33617.000000
+Master: received sum from rank 7 = 33617.000000
+Master: received sum from rank 8 = 33617.000000
+Master: received sum from rank 9 = 33617.000000
+Master: received sum from rank 10 = 33617.000000
+Master: received sum from rank 11 = 33617.000000
+Master: received sum from rank 12 = 33617.000000
+Master: received sum from rank 13 = 33617.000000
+Master: received sum from rank 14 = 33617.000000
+Elapsed time (steps 3-7): 0.002743 seconds
+
+Master: N=10000, i=6350, j=8293, k=9167, t=9223
+Master: local sum = 9988.000000
+Master: received sum from rank 1 = 9988.000000
+Master: received sum from rank 2 = 9988.000000
+Master: received sum from rank 3 = 9988.000000
+Master: received sum from rank 4 = 9988.000000
+Master: received sum from rank 5 = 9988.000000
+Master: received sum from rank 6 = 9988.000000
+Master: received sum from rank 7 = 9988.000000
+Master: received sum from rank 8 = 9988.000000
+Master: received sum from rank 9 = 9988.000000
+Master: received sum from rank 10 = 9988.000000
+Master: received sum from rank 11 = 9988.000000
+Master: received sum from rank 12 = 9988.000000
+Master: received sum from rank 13 = 9988.000000
+Master: received sum from rank 14 = 9988.000000
+Elapsed time (steps 3-7): 0.003127 seconds
+
+Master: N=10000, i=4908, j=7581, k=8636, t=9604
+Master: local sum = 18159.000000
+Master: received sum from rank 1 = 18159.000000
+Master: received sum from rank 2 = 18159.000000
+Master: received sum from rank 3 = 18159.000000
+Master: received sum from rank 4 = 18159.000000
+Master: received sum from rank 5 = 18159.000000
+Master: received sum from rank 6 = 18159.000000
+Master: received sum from rank 7 = 18159.000000
+Master: received sum from rank 8 = 18159.000000
+Master: received sum from rank 9 = 18159.000000
+Master: received sum from rank 10 = 18159.000000
+Master: received sum from rank 11 = 18159.000000
+Master: received sum from rank 12 = 18159.000000
+Master: received sum from rank 13 = 18159.000000
+Master: received sum from rank 14 = 18159.000000
+Elapsed time (steps 3-7): 0.003538 seconds
+
